@@ -1,6 +1,6 @@
-## Getting Started
+## Practica 1
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este programa lo que hace es que crea una lista con los estudiantes que nos fueron dados 
 
 ## Folder Structure
 
